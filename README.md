@@ -1,4 +1,4 @@
-# sudoku solver
+# Sudoku Solver
 
 Written in Java, this is a sudoku solver using recursive backtraxing to solve sudoku puzzels varying in difficulty
 To use the program you must dow th following:
